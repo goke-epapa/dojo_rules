@@ -10,3 +10,4 @@ Deadly Skills
 * Java
 * Python
 * Mysql
+* Killing history using git rebase
